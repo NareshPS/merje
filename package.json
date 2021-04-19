@@ -1,0 +1,25 @@
+{
+  "name": "morje",
+  "version": "1.0.0",
+  "description": "Split and merge objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NareshPS/morje.git"
+  },
+  "keywords": [
+    "object",
+    "split",
+    "merge",
+    "combination"
+  ],
+  "author": "NareshPS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NareshPS/morje/issues"
+  },
+  "homepage": "https://github.com/NareshPS/morje#readme"
+}

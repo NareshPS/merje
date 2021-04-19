@@ -1,0 +1,18 @@
+{
+  "sizes": {
+    "train": 10,
+    "test": 16,
+    "batch": 4
+  },
+  "softsignals": {
+    "samples": 10
+  },
+  "samples": 5,
+  "players": [
+    "TwoLayerCnn",
+    "Vision"
+  ],
+  "plays": 1,
+  "epochs": 1,
+  "id": "default"
+}
