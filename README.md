@@ -1,2 +1,2 @@
 # morje
-Split and merge JSON configurations
+Split and merge objects
